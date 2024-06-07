@@ -1,22 +1,22 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Junk Gone
+  site: 'https://bayareajunkhaulingservice.com/'
   base: '/'
   trailingSlash: false
 
-  # googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: 5IdE8exfODCWJJ1vMwI6_5SauTQxwEkfX9VlNUsluCk
 
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
+    default: BayArea Junk Hauling Services
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Your Local Eco-Friendly Company: Clean Spaces made easy, Green Solutions, Modern Experience, Hassle-Free Service"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: BayArea Junk Hauling Services
     images:
       - url: '~/assets/images/default.png'
         width: 1200
