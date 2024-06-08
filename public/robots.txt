@@ -1,2 +1,2 @@
 User-agent: *
-Header set X-Robots-Tag "index, follow"
+Disallow:
