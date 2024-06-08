@@ -1,5 +1,5 @@
 site:
-  name: Junk Gone
+  name: Bay Area Junk Hauling Service
   site: 'https://bayareajunkhaulingservice.com/'
   base: '/'
   trailingSlash: false
@@ -11,7 +11,7 @@ metadata:
   title:
     default: BayArea Junk Hauling Services
     template: '%s — AstroWind'
-  description: "\U0001F680 Your Local Eco-Friendly Company: Clean Spaces made easy, Green Solutions, Modern Experience, Hassle-Free Service"
+  description: "\U0001F680 Your Local Clean Up Company | Eco-Friendly made easy, with a Modern Experience, Hassle-Free Service"
   robots:
     index: true
     follow: true
