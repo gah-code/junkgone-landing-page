@@ -1,6 +1,6 @@
 site:
-  name: Bay Area Junk Hauling Service
-  site: 'https://bayareajunkhaulingservice.com/'
+  name: Bay Area Junk
+  site: 'https://bayareajunkhaulingservice.com'
   base: '/'
   trailingSlash: false
 
